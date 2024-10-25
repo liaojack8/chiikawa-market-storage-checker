@@ -4,17 +4,25 @@ Check storage of products in Chiikawa market.
 
 ## Install
 
-### Tampermonkey (Chrome Desktop)
+### Tampermonkey (All PC)
 
-https://raw.githubusercontent.com/zhxie/chiikawa-market-storage-checker/master/chiikawa-market-storage-checker.user.js
+https://raw.githubusercontent.com/liaojack8/chiikawa-market-storage-checker/master/chiikawa-market-storage-checker.user.js
 
 or
 
-https://cdn.jsdelivr.net/gh/zhxie/chiikawa-market-storage-checker/chiikawa-market-storage-checker.user.js
+https://cdn.jsdelivr.net/gh/liaojack8/chiikawa-market-storage-checker/chiikawa-market-storage-checker.user.js
 
-### Shortcuts (iOS, macOS)
+### Apple iPhone or iPad
 
-https://www.icloud.com/shortcuts/83b42ebe3e16471f83b8c3c2d7dc0600
+Choose one u prefer
+
+[Stay](https://apps.apple.com/tw/app/id1591620171)
+
+[Userscripts](https://apps.apple.com/tw/app/id1463298887)
+
+### Android Devices
+
+[Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=zh_TW) with [tampermonkey](https://chromewebstore.google.com/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-TW&pli=1)
 
 ## License
 
