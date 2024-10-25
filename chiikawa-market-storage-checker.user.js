@@ -19,7 +19,8 @@
 
 (function () {
   "use strict";
-
+  // remove worldshopping
+  document.querySelector('#zigzag-worldshopping-checkout').remove();
   if (document.location.pathname === "/cart") {
     // Cart.
     for (const item of document.getElementsByClassName("cart--item")) {
