@@ -28,7 +28,7 @@
         item.getElementsByClassName("cart--item--title")?.[0]?.children?.[0]
           ?.children?.[0];
       if (quantity !== undefined && label) {
-        label.textContent += `(${quantity})`;
+        label.textContent += ` [庫存: ${quantity}]`;
       }
     }
   } else {
@@ -38,7 +38,7 @@
       ?.children?.[0]?.getAttribute("data-inventory-quantity");
     const label = document.getElementsByClassName("product-page--title")?.[0];
     if (quantity !== undefined && label) {
-      label.textContent += ` (${quantity})`;
+      label.textContent += ` [庫存: ${quantity}]`;
     }
   }
 })();
