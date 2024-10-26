@@ -2,6 +2,8 @@
 
 Check storage of products in Chiikawa market.
 
+Remove annoying worldshopping button in the page.
+
 ## How to Use
 
 ### All PC (Chromium based browsers)
